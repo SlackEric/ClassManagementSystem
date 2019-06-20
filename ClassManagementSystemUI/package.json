@@ -7,7 +7,8 @@
     "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "api": "mvcng -s \"..\\ClassManagementSystem.API\" -p \"..\\ClassManagementSystem.API\\ClassManagementSystem.API.csproj\" -t src\\app\\services\\mvc-api -a \"ClassManagementSystem.API;\""
   },
   "private": true,
   "dependencies": {

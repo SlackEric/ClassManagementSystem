@@ -3,7 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassManagementSystem.API", "ClassManagementSystem.API\ClassManagementSystem.API.csproj", "{72DAE9D4-53B8-40D9-B5A9-4803FF28E408}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassManagementSystem.API", "ClassManagementSystem.API\ClassManagementSystem.API.csproj", "{72DAE9D4-53B8-40D9-B5A9-4803FF28E408}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jack.DataScience", "Jack.DataScience", "{327B98D6-C1D7-4CE5-B539-9E35AEC625F1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcAngular.Generator", "..\Jack.DataScience\Jack.DataScience\MvcAngular.Generator\MvcAngular.Generator.csproj", "{BD0F02E5-0692-47CA-BDC5-1F5767FC072D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack.DataScience.Console", "..\Jack.DataScience\Jack.DataScience\Jack.DataScience.Console\Jack.DataScience.Console.csproj", "{54F3CDC1-B2D4-4E8E-9B60-FD46D598832D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack.DataScience.Common", "..\Jack.DataScience\Jack.DataScience\Jack.DataScience.Common\Jack.DataScience.Common.csproj", "{9883FD04-1F52-48DC-83E0-804EF7AD6E72}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack.DataScience.Http.Jwt", "..\Jack.DataScience\Jack.DataScience\Jack.DataScience.Http.Jwt\Jack.DataScience.Http.Jwt.csproj", "{92AD2DC8-CCA5-4767-BBA9-09B6E0499A8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack.DataScience.Logging.Serilog", "..\Jack.DataScience\Jack.DataScience\Jack.DataScience.Logging.Serilog\Jack.DataScience.Logging.Serilog.csproj", "{2F640D1A-101C-4CC9-88C5-1B9D01511816}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClassManagementSystem.Data", "ClassManagementSystem.Data\ClassManagementSystem.Data.csproj", "{B33C9CDF-FC69-4E81-9AB1-83DD0B4B70C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jack.DataScience.Data.MongoDB", "..\Jack.DataScience\Jack.DataScience\Jack.DataScience.Data.MongoDB\Jack.DataScience.Data.MongoDB.csproj", "{1AA494DB-0D9D-4084-B59A-34905AF0320D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +31,45 @@ Global
 		{72DAE9D4-53B8-40D9-B5A9-4803FF28E408}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72DAE9D4-53B8-40D9-B5A9-4803FF28E408}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72DAE9D4-53B8-40D9-B5A9-4803FF28E408}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD0F02E5-0692-47CA-BDC5-1F5767FC072D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD0F02E5-0692-47CA-BDC5-1F5767FC072D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD0F02E5-0692-47CA-BDC5-1F5767FC072D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD0F02E5-0692-47CA-BDC5-1F5767FC072D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54F3CDC1-B2D4-4E8E-9B60-FD46D598832D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54F3CDC1-B2D4-4E8E-9B60-FD46D598832D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54F3CDC1-B2D4-4E8E-9B60-FD46D598832D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54F3CDC1-B2D4-4E8E-9B60-FD46D598832D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9883FD04-1F52-48DC-83E0-804EF7AD6E72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9883FD04-1F52-48DC-83E0-804EF7AD6E72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9883FD04-1F52-48DC-83E0-804EF7AD6E72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9883FD04-1F52-48DC-83E0-804EF7AD6E72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92AD2DC8-CCA5-4767-BBA9-09B6E0499A8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92AD2DC8-CCA5-4767-BBA9-09B6E0499A8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92AD2DC8-CCA5-4767-BBA9-09B6E0499A8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92AD2DC8-CCA5-4767-BBA9-09B6E0499A8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F640D1A-101C-4CC9-88C5-1B9D01511816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F640D1A-101C-4CC9-88C5-1B9D01511816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F640D1A-101C-4CC9-88C5-1B9D01511816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F640D1A-101C-4CC9-88C5-1B9D01511816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B33C9CDF-FC69-4E81-9AB1-83DD0B4B70C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B33C9CDF-FC69-4E81-9AB1-83DD0B4B70C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B33C9CDF-FC69-4E81-9AB1-83DD0B4B70C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B33C9CDF-FC69-4E81-9AB1-83DD0B4B70C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1AA494DB-0D9D-4084-B59A-34905AF0320D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA494DB-0D9D-4084-B59A-34905AF0320D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA494DB-0D9D-4084-B59A-34905AF0320D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA494DB-0D9D-4084-B59A-34905AF0320D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BD0F02E5-0692-47CA-BDC5-1F5767FC072D} = {327B98D6-C1D7-4CE5-B539-9E35AEC625F1}
+		{54F3CDC1-B2D4-4E8E-9B60-FD46D598832D} = {327B98D6-C1D7-4CE5-B539-9E35AEC625F1}
+		{9883FD04-1F52-48DC-83E0-804EF7AD6E72} = {327B98D6-C1D7-4CE5-B539-9E35AEC625F1}
+		{92AD2DC8-CCA5-4767-BBA9-09B6E0499A8F} = {327B98D6-C1D7-4CE5-B539-9E35AEC625F1}
+		{2F640D1A-101C-4CC9-88C5-1B9D01511816} = {327B98D6-C1D7-4CE5-B539-9E35AEC625F1}
+		{1AA494DB-0D9D-4084-B59A-34905AF0320D} = {327B98D6-C1D7-4CE5-B539-9E35AEC625F1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C9193574-4D10-4B7D-96B9-D85F15D70AFB}

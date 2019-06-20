@@ -1,0 +1,53 @@
+2019-06-18 00:17:18.334 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-18 00:17:18.870 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-18 00:17:18.872 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
+2019-06-18 00:17:24.123 +10:00 [Information] Startup
+2019-06-18 00:17:25.290 +10:00 [Information] ConfigureServices Start
+2019-06-18 00:17:25.319 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 00:17:25.323 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 18:01:41.907 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-18 18:01:42.514 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-18 18:01:42.518 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
+2019-06-18 18:01:46.748 +10:00 [Information] Startup
+2019-06-18 18:01:47.901 +10:00 [Information] ConfigureServices Start
+2019-06-18 18:01:47.945 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 18:01:47.948 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 18:28:36.447 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-18 18:28:36.722 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-18 18:28:36.725 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
+2019-06-18 18:28:37.596 +10:00 [Information] Startup
+2019-06-18 18:28:37.735 +10:00 [Information] ConfigureServices Start
+2019-06-18 18:28:37.737 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 18:28:37.738 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 23:04:17.248 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-18 23:04:17.681 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-18 23:04:17.688 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
+2019-06-18 23:04:18.696 +10:00 [Information] Startup
+2019-06-18 23:04:19.082 +10:00 [Information] ConfigureServices Start
+2019-06-18 23:04:19.083 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 23:04:19.088 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 23:11:24.774 +10:00 [Information] Startup
+2019-06-18 23:11:24.925 +10:00 [Information] ConfigureServices Start
+2019-06-18 23:11:24.925 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 23:11:24.926 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 23:11:25.699 +10:00 [Information] ConfigureServices End
+2019-06-18 23:11:43.295 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-18 23:11:44.480 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-18 23:11:44.510 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
+2019-06-18 23:11:46.067 +10:00 [Information] Startup
+2019-06-18 23:11:46.240 +10:00 [Information] ConfigureServices Start
+2019-06-18 23:11:46.277 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 23:11:46.283 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 23:11:48.243 +10:00 [Information] ConfigureServices End
+2019-06-18 23:11:48.815 +10:00 [Information] Configure Start
+2019-06-18 23:11:50.009 +10:00 [Information] Configure End
+2019-06-18 23:55:50.689 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-18 23:55:52.222 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-18 23:55:52.810 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
+2019-06-18 23:55:58.299 +10:00 [Information] Startup
+2019-06-18 23:55:59.554 +10:00 [Information] ConfigureServices Start
+2019-06-18 23:55:59.632 +10:00 [Information] AutoFacContainer Environment: Development
+2019-06-18 23:55:59.683 +10:00 [Information] AutoFacContainer Current Path: C:\Users\Eric\Documents\GitHub\ClassManagementSystem\ClassManagementSystem.API\bin\Debug\netcoreapp2.2\
+2019-06-18 23:56:06.629 +10:00 [Information] ConfigureServices End
+2019-06-18 23:56:09.117 +10:00 [Information] Configure Start
+2019-06-18 23:56:12.456 +10:00 [Information] Configure End

@@ -1,0 +1,3 @@
+2019-06-16 12:32:16.523 +10:00 [Information] ClassManagementSystem.API Startup: 
+2019-06-16 12:32:16.704 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_ENVIRONMENT: Development
+2019-06-16 12:32:16.711 +10:00 [Information] ClassManagementSystem.API ASPNETCORE_URLS: https://localhost:5001;http://localhost:5000
