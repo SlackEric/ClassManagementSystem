@@ -8,7 +8,7 @@ using ClassManagementSystem.API.Dtos;
 
 namespace ClassManagementSystem.API.Controllers
 {
-    [Angular]
+    [Angular, Route("[controller]/[action]")]
     public class TestController: Controller
     {
         [HttpGet]
