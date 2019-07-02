@@ -11,7 +11,8 @@ namespace ClassManagementSystem.Data.PostgresSQL
         public PostgresSQLDataContext(DbContextOptions<PostgresSQLDataContext> contextOptions) : base(contextOptions)
         {
         }
-
+        public DbSet<StudentEntity> Students { get; set; }
+        /*
         public DbSet<AnimalEntity> Animals { get; set; }
         public DbSet<PersonEntity> Persons { get; set; }
         public DbSet<FriendShipEntity> FriendShip { get; set; }
@@ -24,6 +25,7 @@ namespace ClassManagementSystem.Data.PostgresSQL
                 .HasIndex(friend => friend.ToPerson);
             base.OnModelCreating(modelBuilder);
         }
+        */
     }
 }
 
